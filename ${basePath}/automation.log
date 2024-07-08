@@ -1,0 +1,8 @@
+[INFO ] 2024-07-08 15:52:42,682 UserTests.testPOSTUser() - *************** Creating User *******************
+[INFO ] 2024-07-08 15:52:47,871 UserTests.testPOSTUser() - *************** User Created *******************
+[INFO ] 2024-07-08 15:52:47,894 UserTests.testGetUserByName() - *************** Reading User Info *******************
+[INFO ] 2024-07-08 15:52:49,302 UserTests.testGetUserByName() - *************** User info is displayed *******************
+[INFO ] 2024-07-08 15:52:49,307 UserTests.testUpdateUserByName() - *************** Updating User *******************
+[INFO ] 2024-07-08 15:52:50,636 UserTests.testUpdateUserByName() - *************** User Updated *******************
+[INFO ] 2024-07-08 15:52:51,903 UserTests.testDeleteUser() - *************** Deleting User *******************
+[INFO ] 2024-07-08 15:52:53,176 UserTests.testDeleteUser() - *************** User Deleted *******************
